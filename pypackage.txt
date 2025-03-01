@@ -1,0 +1,13 @@
+ragas
+langchain-openai
+pytest
+matplotlib
+numpy
+pandas
+requests
+selenium
+pillow
+scipy
+scikit-image
+scikit-learn
+jupyter
